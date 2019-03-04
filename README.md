@@ -1,0 +1,1 @@
+Notes and Assignments for the Understanding and Visualizing Data with Python course for UofM
